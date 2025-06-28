@@ -14,6 +14,7 @@ Master branch contains **Selenium 4 - W3C protocol** samples, for **Selenium 3**
 ### Running your tests
 * To run a single test, run `mvn test -P single`
 * To run local tests, run `mvn test -P local`
+* To run remote tests, run `mvn test -P remote`
 
 Understand how many parallel sessions you need by using our [Parallel Test Calculator](https://www.browserstack.com/automate/parallel-calculator?ref=github)
 

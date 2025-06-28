@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="alfresco-enterprise-releases" />
+      <option name="name" value="Alfresco Enterprise Releases" />
+      <option name="url" value="https://artifacts.alfresco.com/nexus/content/repositories/enterprise-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="hyland-github" />
+      <option name="name" value="hyland-github" />
+      <option name="url" value="https://maven.pkg.github.com/HylandSoftware/hxp-transform-service" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="hylandsoftware-releases" />
+      <option name="name" value="hylandsoftware-releases" />
+      <option name="url" value="https://artifacts.alfresco.com/nexus/content/repositories/hylandsoftware-releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="alfresco-internal" />
+      <option name="name" value="Alfresco Internal Repository" />
+      <option name="url" value="https://artifacts.alfresco.com/nexus/content/groups/internal/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="hylandsoftware-github" />
+      <option name="name" value="hylandsoftware-github" />
+      <option name="url" value="https://maven.pkg.github.com/HylandSoftware/hxp-transform-service" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="alfresco-releases" />
+      <option name="name" value="Alfresco Enterprise Snapshots" />
+      <option name="url" value="https://artefacts.alfresco.com/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="1_maven.apache.org" />
+      <option name="name" value="1_maven.apache.org" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="confluent" />
+      <option name="name" value="confluent" />
+      <option name="url" value="https://packages.confluent.io/maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-milestone" />
+      <option name="name" value="Spring milestone" />
+      <option name="url" value="https://repo.spring.io/milestone" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="alfresco-internal" />
+      <option name="name" value="Alfresco Internal Repository" />
+      <option name="url" value="https://artifacts.alfresco.com/nexus/content/groups/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="2_maven.oracle.com" />
+      <option name="name" value="2_maven.oracle.com" />
+      <option name="url" value="https://maven.oracle.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="hylandsoftware-releases" />
+      <option name="name" value="Hyland Software releases" />
+      <option name="url" value="https://artifacts.alfresco.com/nexus/content/repositories/hylandsoftware-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="alfresco-internal-snapshots" />
+      <option name="name" value="Activiti Enterprise Snapshots" />
+      <option name="url" value="https://artifacts.alfresco.com/nexus/content/repositories/activiti-enterprise-snapshots/" />
+    </remote-repository>
+  </component>
+</project>
